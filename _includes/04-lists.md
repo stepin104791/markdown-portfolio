@@ -1,2 +1,2 @@
-: Exile
-: Hoax
+- exile
+- hoax
